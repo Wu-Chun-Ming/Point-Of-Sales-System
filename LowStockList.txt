@@ -1,0 +1,10 @@
+2022-04-14
+ITEM WITH LOW STOCK
+-------------------
+NAME                            STOCK LEFT
+------------------------------------------------------------
+MOLTEN Basketball               19        
+WILSON Basketball               24        
+MIKASA BASKETBALL               0         
+
+KINDLY UPDATE IN ITEM MASTER SYSTEM AFTER RESTOCK
